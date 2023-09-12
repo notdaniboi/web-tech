@@ -1,0 +1,41 @@
+html {
+  background-color: peachpuff;
+}
+
+body {
+  background-color: white;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+  text-align: center;
+}
+
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
